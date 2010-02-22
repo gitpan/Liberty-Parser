@@ -5,7 +5,8 @@ use Liberty::Parser;
 my $i;
 my $p = new Liberty::Parser;
 
-my $g = $p->read_file("tcbn65lpwc.lib");
+my $file = shift;
+my $g = $p->read_file($file);
 my @cell = $p->get_group_names($g);
 
 foreach $i (@cell) {

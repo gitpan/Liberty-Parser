@@ -1,6 +1,5 @@
 #!/usr/bin/perl -w
 use strict;
-use lib "/tmp_mnt/array20/arm/armadm/adm0/york/Liberty-Parser-0.02/lib";
 use Liberty::Parser;
 
 my $i;

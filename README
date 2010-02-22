@@ -20,6 +20,7 @@ DEPENDENCIES
 
 This module requires liberty_parse from below Synopsys Open Liberty Project page:
 http://www.opensourceliberty.org/resources_ccs.html
+The suggested version is liberty_parse-2.5e.tar.gz.
 
 
 COPYRIGHT AND LICENCE
