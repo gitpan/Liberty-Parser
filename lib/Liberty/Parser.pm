@@ -35,11 +35,11 @@ Liberty::Parser - Parser for Synopsys Liberty(.lib).
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 our $e = 1;
 our $e2 = 2;

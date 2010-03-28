@@ -1,5 +1,8 @@
 Revision history for Perl extension Liberty::Parser.
 
+0.04 2010-03-28
+  - Elaborate the installation guide in README.
+
 0.03 2010-02-11
   - Add a lots of subroutine
   - Change the naming of some subroutine
